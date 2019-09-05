@@ -1,9 +1,4 @@
-# Courses
-
-* CS 207
-* AM 207
-* AC 209a
-
 # Playground
+Michael is taking CS 207 and AM 207 among others
 
 A place to play with `git`.
