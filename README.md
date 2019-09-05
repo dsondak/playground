@@ -1,5 +1,3 @@
 # Playground
-Jessica Wijaya
-
-CS109a Data Science 1 
+CS207 
 A place to play with `git`.
