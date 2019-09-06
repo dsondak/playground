@@ -1,4 +1,4 @@
-Theodore Liu's Classes (He's a senior)
+Theodore Liu's Classes
 CS 263
 CS 207
 CS 281
