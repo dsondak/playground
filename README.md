@@ -1,3 +1,4 @@
 # Playground
-Take CS207
+Wanxi taking CS207
+
 A place to play with `git`.
