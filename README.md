@@ -1,4 +1,4 @@
 # Playground
-CS207
+Adrian Cho taking CS207
 
 A place to play with `git`.
