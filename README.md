@@ -1,4 +1,4 @@
-claire yang
+claire yang G1
 # Playground
 AC209a
 CS207
