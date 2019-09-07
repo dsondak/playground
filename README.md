@@ -1,7 +1,5 @@
 # Playground
-Liyang Zhao
-
-G1
+Name: Liyang Zhao
 
 CS 207
 DS 209A
