@@ -1,4 +1,3 @@
-
 # Playground
 
 Ben Levy in CS207
