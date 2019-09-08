@@ -1,3 +1,4 @@
 # Playground
-CS207
+Yingsi taking CS207
+
 A place to play with `git`.
