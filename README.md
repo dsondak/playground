@@ -1,3 +1,6 @@
-# (test of other message: AM207)
+# Playground
+
+Qiuyang is taking CS207
 
 A place to play with `git`.
+
