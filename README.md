@@ -7,6 +7,4 @@ Hayden Sansum - planning to take:
 * STAT139
 * AC298r
 
-G1 Student
-
 A place to play with `git`.
