@@ -1,8 +1,4 @@
-CS207
-AM207
-AC209
-STAT131
-CS171 (hopefully)
+Ben Levy in CS207
 
 # Playground
 
