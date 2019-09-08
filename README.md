@@ -1,3 +1,3 @@
 # Playground
-DAIKI INA
+DaikiIna
 A place to play with `git`.
