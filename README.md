@@ -1,4 +1,4 @@
-#CS 207, AM205, AC298, CS109A
 # Playground
+Tyler taking CS207
 
 A place to play with `git`.
