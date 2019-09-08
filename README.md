@@ -1,4 +1,4 @@
 # Playground
-Amelia taking CS207, AC209A, ALD and Tech Ethics.
+Amelia Elverson is taking CS207 and AC209A.
 
 A place to play with `git`.
