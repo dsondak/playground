@@ -1,5 +1,5 @@
 # Playground
 
-CS207
+Carolyn Wong taking CS207
 
 A place to play with `git`.
