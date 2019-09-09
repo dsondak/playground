@@ -9,5 +9,3 @@ Classes:
 - CS209a
 - CS136
 - STAT139
-
-Year: G1
