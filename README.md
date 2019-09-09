@@ -1,6 +1,5 @@
 # Playground
 ### Simon Warchol Courses
-####G1
 AM205
 CS171
 
