@@ -1,5 +1,5 @@
-##Kate Grosch##
-#G2#
+Kate Grosch
+
 # Playground
 
 Data Science, Tech Ethics
