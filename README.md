@@ -1,4 +1,4 @@
-CS 207
+Zhiying Xu taking CS 207
 # Playground
 
 A place to play with `git`.
