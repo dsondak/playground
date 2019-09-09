@@ -1,3 +1,4 @@
 # Playground
-CS207
+Anna Davydova taking CS207
+
 A place to play with `git`.
