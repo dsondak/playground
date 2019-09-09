@@ -1,3 +1,3 @@
 # Playground
-#CS207, CS249r, CS279r
+#Stan Chang
 A place to play with `git`.
