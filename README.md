@@ -1,3 +1,4 @@
 # Playground
-CS 207, CS 209a
+Caroline is taking CS207
+
 A place to play with `git`.
