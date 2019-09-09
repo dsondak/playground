@@ -1,3 +1,5 @@
+Kate Grosch
+
 # Playground
 
 Data Science, Tech Ethics
