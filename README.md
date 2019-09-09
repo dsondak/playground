@@ -1,9 +1,4 @@
-# Course Planning
-
-AM205
-CS165
-AM101
-
 # Playground
+Yixing taking CS207
 
 A place to play with `git`.
