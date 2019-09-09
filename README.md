@@ -1,6 +1,6 @@
 # Playground
 
-Litao Yan taking CS 207, CS 109a, MIT 6.306
+Litao Yan (G1) taking CS 207, CS 109a, MIT 6.306
 
 
 
