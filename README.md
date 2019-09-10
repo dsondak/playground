@@ -1,4 +1,3 @@
 # Playground
-# shuying ni taking stats
-# G1
+# shuying ni taking status
 A place to play with `git`.
