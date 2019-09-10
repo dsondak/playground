@@ -1,5 +1,5 @@
 #Playground
-Wei-Hung Hsu grad student taking
+Wei-Hung Hsu taking
 MIT computer vision
 Bayesian inference
 Software Engineering
