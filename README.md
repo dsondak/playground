@@ -1,7 +1,5 @@
 # Playground
 
-G1
-
 AC209a
 
 Jiaxuan Wu
