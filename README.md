@@ -1,4 +1,5 @@
 ## Maja Garbulinska  taking 207 
+## I am a graduate student 
 
 # Playground
 
