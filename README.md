@@ -1,4 +1,4 @@
-Sangyoon Park (G1) taking:
+Sangyoon Park taking:
 - Machine Learning
 - Applied Bayesian Inference
 
