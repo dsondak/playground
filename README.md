@@ -1,3 +1,3 @@
 # Playground
 
-A place to play with `git`.
+CS 207
