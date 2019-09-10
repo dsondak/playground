@@ -1,5 +1,6 @@
-Machine Learning
-Applied Bayesian Inference
+Sangyoon Park taking:
+- Machine Learning
+- Applied Bayesian Inference
 
 # Playground
 
