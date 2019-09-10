@@ -1,3 +1,4 @@
 # Playground
-CS 207
+Yichen taking CS207
+
 A place to play with `git`.
