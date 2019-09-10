@@ -1,3 +1,4 @@
 # Playground
-CS207 and AC209a
+CS207 and AC209a taken by Royce Yap
+
 A place to play with `git`.
