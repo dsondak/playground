@@ -1,4 +1,4 @@
-# CS207, EPS208
 # Playground
+Yaowei taking CS207 and EPS208
 
 A place to play with `git`.
