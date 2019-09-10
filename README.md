@@ -1,5 +1,7 @@
 # Playground
 
+Dan Cox
+
 A place to play with `git`.
 
 **Courses I am taking this semester.**
