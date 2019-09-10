@@ -5,6 +5,7 @@ Nenya Edjah will be taking the following classes :D
 
 Nenya Edjah
 -----------
+Harvard College, Class of 2020, Senior
 
 # Playground
 A place to play with `git`.
