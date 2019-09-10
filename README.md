@@ -1,4 +1,4 @@
-CS 243
+# Junzhi Gong takes CS 243
 
 # Playground
 
