@@ -1,4 +1,3 @@
 # Playground
-## Anna Zink
-
+Anna Zink
 A place to play with `git`.
