@@ -8,5 +8,3 @@ STAT 139
 STAT 131
 
 Updated by Hardik Gupta. Test 3.
-
-Class year is G1.
