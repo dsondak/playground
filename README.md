@@ -1,4 +1,4 @@
-bst222, bst262, computer vision
+bst222, bst262, data visualization
 
 # Playground
 
