@@ -1,4 +1,4 @@
 # Playground
 
-AM207, CS207, AM205
+AM 207, CS 207
 A place to play with `git`.
