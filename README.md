@@ -2,6 +2,8 @@
 
 A place to play with `git`.
 
-
-William Palmer 
+CS 207 <3
+AM 207
+AM 209a
+MIT Venture Technology 
 
