@@ -2,4 +2,4 @@
 
 A place to play with `git`.
 
-William Palmer
+William B Palmer
