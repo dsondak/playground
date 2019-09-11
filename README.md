@@ -1,6 +1,5 @@
 # Playground
 
-CS207
-CS109
+Jerri taking CS207
 
 A place to play with `git`.
