@@ -1,5 +1,7 @@
 # Playground
 
+Mingyue Wei
+
 Courses planning to take:
 
 * CS 207
