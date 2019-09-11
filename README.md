@@ -9,6 +9,3 @@ CS 207
 Expos 40
 Portuguese 11S
 
-### Year
-Senior
-
