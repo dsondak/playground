@@ -2,8 +2,6 @@
 
 Mingyue Wei
 
-G1 Master
-
 Courses planning to take:
 
 * CS 207
