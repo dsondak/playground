@@ -1,4 +1,4 @@
 # Playground
-CS207
-CS109
+Zergham taking CS207, CS109
+
 A place to play with `git`.
