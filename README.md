@@ -1,4 +1,3 @@
-### G1
 ### Amy Wickett
 
 # Playground
