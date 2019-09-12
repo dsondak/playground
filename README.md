@@ -1,4 +1,4 @@
-# Playground
+# Playground, Erick Ruiz
 
 A place to play with `git`.
 
