@@ -15,9 +15,4 @@ man grep | col -b | grep -A 1 "^ *-c" | tr "\n" " "
 find test-dir -regex ".*\.\py" | wc -l
 
 # D. Files without "others" read/write access
-echo "\nD:"
-let n_no_read_write=0
-for f in $(find . -maxdepth 1 -type f ! -perm -o=rw); do
-    let n_no_read_write++
-done
-echo $n_no_read_write
+find . -maxdepth 1 -type f ! -perm -o=rw | wc -l
