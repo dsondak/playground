@@ -12,17 +12,7 @@ echo "\nB:"
 man grep | col -b | grep -A 1 "^ *-c" | tr "\n" " "
 
 # C. .py files
-echo "\nC:"
-files="$(ls)"
-let n_python=0
-for f in $files
-do
-    if [ ${f##*.} == "py" ]
-    then
-        let n_python++
-    fi
-done
-echo $n_python
+find test-dir -regex ".*\.\py" | wc -l
 
 # D. Files without "others" read/write access
 echo "\nD:"
