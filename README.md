@@ -1,4 +1,5 @@
 # Playground
+Erik Johnsson
 
 A place to play with `git`.
 
