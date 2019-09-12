@@ -1,5 +1,5 @@
 # Playground
-CS207
+Erik Johnsson taking CS207
 
 A place to play with `git`.
 
