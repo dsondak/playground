@@ -1,4 +1,4 @@
-## cs207 cs171
+## cs207 Shu Xu 
 # Playground
 
 A place to play with `git`.
