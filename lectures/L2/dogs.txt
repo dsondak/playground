@@ -1,0 +1,9 @@
+Sally, 6, Border Collie
+Joey, 3, Mutt
+Ed, 2 Black Lab
+Rose, 0.5, Golden Retriever
+Alex, 12, Terrier
+Bo, 4, Beagle
+Wilma, 7, Husky
+Pearl, 1, Bloodhound
+joey, 8, Chihuahua

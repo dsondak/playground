@@ -1,3 +1,4 @@
-# Playground
+# Christopher Siviy
 
-A place to play with `git`.
+## Courses
+This is the only course I'm taking this semester.
