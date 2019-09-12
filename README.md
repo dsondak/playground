@@ -4,4 +4,4 @@ A place to play with `git`.
 
 ### Fall 2019
 
-Spencer Penn
+Spencer "messing with changes" penn
