@@ -1,4 +1,4 @@
-HEAD
+G1
 CS207, AM205, CS136, AC209a
 Lihong Zhang
 
