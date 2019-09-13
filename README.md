@@ -1,5 +1,4 @@
 # Evan Simons
-## Senior
 
 CS 207
 ECON 1123
