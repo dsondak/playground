@@ -7,4 +7,7 @@ AC 209a
 STAT 139
 STAT 131
 
-Updated by Hardik Gupta. Test 3.
+Hardik's changes
+Will's changes
+
+### Fall 2019
