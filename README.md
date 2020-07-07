@@ -1,4 +1,4 @@
-Peniel Argaw (G2) is taking CS.107
+Peniel Argaw is taking CS.107
 
 # Playground
 
