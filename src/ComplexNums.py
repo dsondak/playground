@@ -6,6 +6,9 @@ class Complex:
         self.real = a
         self.imag = b
 
+    def __repr__(self):
+        raise NotImplementedError
+
     def cc(self):
         return Complex(self.real, -self.imag)
 
