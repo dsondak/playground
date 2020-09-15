@@ -1,4 +1,4 @@
-#Aditya Kumar Planned Courses:CSCI-E-207 Graduate Student
+#Aditya Kumar Planned Courses:CSCI-E-207
 
 # Playground
 A place to play with `git`.
