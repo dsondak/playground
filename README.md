@@ -1,6 +1,6 @@
-#Aditya Kumar Planned Courses:CSCI-E-207
-
 # Playground
+CSCI-E-207 Aditya Kumar
+
 A place to play with `git`.
 
 ### Fall 2020
