@@ -5,4 +5,7 @@ Test
 A place to play with `git`.
 Testing
 
-### Fall 2019
+### Fall 2020
+Class prep.
+Pre-class demo
+In-class demo
